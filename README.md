@@ -1,2 +1,2 @@
 # myFirstProject
-sample test
+ sample project
